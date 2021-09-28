@@ -20,12 +20,12 @@ input, button{
 }
 input{
     width: 70%;
-    border-bottom: 2px solid grey;
+    border-bottom: 2px solid rgb(79, 79, 147);
     margin-bottom: 20px;
 }
 button {
     width: 25%; 
-    background:rgb(145, 145, 211);
+    background:rgb(79, 79, 147);
     color: white;  
     border-radius: 3px;
 }
